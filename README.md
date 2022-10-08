@@ -45,15 +45,7 @@ Crea hijo.             Cierra.
 Lee mensaje.
 Cierra.
 
-Algunos descriptores se eliminan cuando
-no vuelven a ser utilizados.
--------------------------------------
- La diferencia fundamental entre    
- las pipes y los socketpair, es que 
- los segundos son con flujo en los  
- dos sentidos.                      
- ------------------------------------ 
-------------------------------------
+
 Por otro lado, volcamos la disposición
 del buffer con la frase elegida,
 y su posición de inicio en la memoria.
@@ -77,5 +69,6 @@ $ gcc -Wall -Werror  -o tuberias tuberias.c
 -------------------------------------------
 Ejecutar:
 $ ./tuberias
+***********************************************
 
 */
