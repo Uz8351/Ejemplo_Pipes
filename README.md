@@ -48,10 +48,10 @@ Cierra.
 Algunos descriptores se eliminan cuando
 no vuelven a ser utilizados.
 -------------------------------------
-| La diferencia fundamental entre    |
-| las pipes y los socketpair, es que |
-| los segundos son con flujo en los  |
-| dos sentidos.                      |
+| La diferencia fundamental entre    
+| las pipes y los socketpair, es que 
+| los segundos son con flujo en los  
+| dos sentidos.                      
  ------------------------------------ 
 ------------------------------------
 Por otro lado, volcamos la disposición
