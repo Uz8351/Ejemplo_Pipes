@@ -1,3 +1,6 @@
+
+-----------------------------------------------------------------------------------------
+
 # Ejemplo_Pipes
 /*
 ---------------------------------------
@@ -44,7 +47,7 @@ Crea pipe.             Escribe mensaje
 Crea hijo.             Cierra.
 Lee mensaje.
 Cierra.
-
+************************************************************************************
 
 Por otro lado, volcamos la disposición
 del buffer con la frase elegida,
@@ -65,7 +68,7 @@ Se puede jugar y mejorar.
 **************************************************
 **************************************************
 Compilar:
-$ gcc -Wall -Werror  -o tuberias tuberias.c
+ gcc -Wall -Werror  -o tuberias tuberias.c
 -------------------------------------------
 Ejecutar:
 $ ./tuberias
